@@ -1,7 +1,7 @@
 ![](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/322502897_5731049696931586_8195401451110320047_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEpfbf8IKpiLjC-6RRAjRYh-4PUacwS9Sf7g9RpzBL1J5vYyIYaGoXWV-HXgbsaRsgd19008H2AoztVw4qjsgxz&_nc_ohc=0AibtGATJxcAX_xVlUx&tn=Tq7oewDC5TelA5A_&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfCr6DC4MFcbYz2hGp-0RBLimWzwLxjkbgQAEFZknqO3MQ&oe=63AF3A6D)
-### Hi there 👋, Tanvir Ahamed
-#### I'm MERN Stack Developer
-![I'm MERN Stack Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/319027444_712044770336925_8108724687585405889_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWdKHa5PW-R6ny9e0fAAU-cS2UQn6yh3BxLZRCfrKHcCY5bp1CgF2fDqNcAVGSTFGPffDBsE-lEs6VVsIkb456&_nc_ohc=KxI2v3V9qW8AX-VxvhL&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfDplJffTwXwl4t10kiGpLOhfLH0ANJfnwQSJdCiOm5HVQ&oe=63AF7B64)
+# Hi there 👋, Tanvir Ahamed
+## I'm MERN Stack Developer
+
 
 Hi.I am Professional  Front End developer specialist since 2020, In my professional career i have done many projects with different techniques, i have strong grip on Html Css3 Bootstrap Javascript and React Js.
 
